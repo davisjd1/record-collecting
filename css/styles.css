@@ -14,6 +14,13 @@ header {
          
 }
 
+hr {
+    width: "10%";
+    color: black;
+
+
+}
+
 h1,h2 {
     font-family: Georgia;
     font-weight: 400px;
