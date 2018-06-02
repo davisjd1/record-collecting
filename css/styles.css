@@ -48,8 +48,9 @@ h2 {
 
 }
 
+
 #menu {
-    background-color: #F0F0F0;
+    background-color: #E0E0E0;
     padding-top: 1px;
     padding-bottom: 1px;
   
@@ -65,14 +66,14 @@ h2 {
 }
 
 main {
-    background-color: #E0E0E0;
+  
     line-height: 1.5;
     padding-top: 1px;
     padding-bottom: 1px;
 }
 
 .img-container1 {
-    float: center;
+    float: auto;
     margin-left: auto;
     margin-right: auto;
     padding-left: 20px;
@@ -81,7 +82,7 @@ main {
   .img-container2 {
     float: left;
     width: 25%; /* three containers (use 25% for four, and 50% for two, etc) */
-    padding: 5px; /* if you want space between the images */
+    padding: 10px; /* if you want space between the images */
   }  
 
   .clearfix::after {
@@ -95,39 +96,13 @@ main img {
     float: center;
 }
 
+
 footer {
-    background-color: #3E1305;
+    background-color: blue;
     fill: white;
     color: white
         
 }
-
-
-footer svg {
-    width: 1.8rem;
-}
-
-footer :any-link {
-    text-decoration: none;
-}
-
-svg:hover {
-    fill:#D0D0D0;
-}
-
-/*from https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions
-bottom of page. I couldn't tell my initial transition was working*/
-a {
-    color: white;
-    background-color:none;
-    transition: all 1s ease-out;
-  }
-  
-  a:hover,
-  a:focus {
-    color: grey;
-    background-color:blue;
-  }
 
   footer {
       padding-top: 10px;
