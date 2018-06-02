@@ -76,8 +76,7 @@ main {
     float: auto;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 20px;
-  }
+}
 
   .img-container2 {
     float: left;
@@ -107,4 +106,6 @@ footer {
   footer {
       padding-top: 10px;
       padding-bottom: 10px;
+      padding-left: 10px;
+      padding-right: 10px;
   }
