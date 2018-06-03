@@ -15,8 +15,9 @@ header {
 }
 
 hr {
-    width: "10%";
-    color: black;
+    width: "100%";
+    height: 10px;
+    background: black;
 
 
 }
@@ -36,6 +37,7 @@ h1 {
 
 h2 {
     font-size: 3rem;
+    margin-top: 0px;
     
 }
 
@@ -56,6 +58,7 @@ h3 {
     margin-right: auto;
     padding-left: 1in;
     padding-right: 1in;
+    background: linear-gradient(white, silver, white);
 
 }
 
@@ -69,10 +72,13 @@ h3 {
 }
 
 #menu {
-    background-color: #E0E0E0;
-    padding-top: 1px;
-    padding-bottom: 1px;
-  
+    background: linear-gradient(silver,white);
+    padding-left: 1in;
+    padding-right: 1in;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    
 }
 
 #menu dt {   
