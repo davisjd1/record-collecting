@@ -7,7 +7,7 @@ L.tileLayer(
   {
     attribution:
       'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-    maxZoom: 18,
+    maxZoom: 17,
     id: "mapbox.streets",
     accessToken:
       "pk.eyJ1IjoiZGF2aXNqZDEiLCJhIjoiY2poemNlbjdwMHNnYzNrcXMwNTI5Nzd5ZSJ9.Q71zubav-tBEnmM1DUWm3A"
