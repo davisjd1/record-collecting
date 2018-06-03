@@ -3,7 +3,7 @@
 ## AUTHOR
 
 **JASON DAVIS**
-MLIS
+Link to my project: <https://davisjd1.github.io/record-collecting/>
 
 ## Purpose of Project
 
