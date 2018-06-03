@@ -10,7 +10,7 @@ L.tileLayer(
     maxZoom: 18,
     id: "mapbox.streets",
     accessToken:
-      "pk.eyJ1Ijoibmlja2RlbmFyZGlzIiwiYSI6ImNqaGRla2pjMjBvYXgzNm13Yzc3aGIwM3kifQ.G2Tr-B7ppCNdj6xuM0Qc5A"
+      "pk.eyJ1IjoiZGF2aXNqZDEiLCJhIjoiY2poemNlbjdwMHNnYzNrcXMwNTI5Nzd5ZSJ9.Q71zubav-tBEnmM1DUWm3A"
   }
 ).addTo(mymap);
 
